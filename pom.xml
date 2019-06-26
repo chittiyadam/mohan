@@ -16,7 +16,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>tomcat</finalName>
+    <finalName>tomcatdeplo</finalName>
   </build>
  <plugin>
        <groupId>org.apache.tomcat.maven</groupId>
