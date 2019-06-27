@@ -20,11 +20,11 @@
   </build>
  <plugin>
        <groupId>org.apache.tomcat.maven</groupId>
-       <artifactId>tomcat7-maven-plugin</artifactId>
+       <artifactId>tomcat9-maven-plugin</artifactId>
        <version>2.2</version>
        <configuration>
-            <port>8085</port>   //Configure port number
-            <path>http://localhost:8085/</path>   //Configure application root URL
+            <port>8084</port>   //Configure port number
+            <path>http://localhost:8084/</path>   //Configure application root URL
             </configuration>
 </plugin>
 </project>
