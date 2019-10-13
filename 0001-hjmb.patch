@@ -1,0 +1,37 @@
+From eb0857edef631c9a7aa44b0d363f37c2c787b44a Mon Sep 17 00:00:00 2001
+From: khavyashreeyadam <36882883+khavyashreeyadam@users.noreply.github.com>
+Date: Wed, 3 Jul 2019 14:24:48 +0530
+Subject: [PATCH] hjmb
+
+---
+ pom.xml | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/pom.xml b/pom.xml
+index 0c980a3..1c31c2f 100644
+--- a/pom.xml
++++ b/pom.xml
+@@ -2,10 +2,10 @@
+   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+   <modelVersion>4.0.0</modelVersion>
+   <groupId>com.sample.webproject</groupId>
+-  <artifactId>SampleWebApp</artifactId>
++  <artifactId>SampleWebApp2</artifactId>
+   <packaging>war</packaging>
+   <version>1.0-SNAPSHOT</version>
+-  <name>SampleWebApp Maven Webapp</name>
++  <name>SampleWebApp Maven Webapp3</name>
+   <url>http://maven.apache.org</url>
+   <dependencies>
+     <dependency>
+@@ -16,6 +16,6 @@
+     </dependency>
+   </dependencies>
+   <build>
+-    <finalName>SampleWebApp</finalName>
++    <finalName>SampleWebApp2</finalName>
+   </build>
+ </project>
+-- 
+2.19.1
+
